@@ -1,4 +1,4 @@
-# 👋 Welcome to Akshansh's Website
+# 👋 WIP Akshansh's Website
 
 Welcome to the repository for **Akshansh's personal website**!
 
@@ -60,7 +60,8 @@ npm run dev
 - JavaScript / TypeScript
 - React (if applicable)
 - Next.js / Vite (if applicable)
-
+- Python
+  
 ## 🌟 About
 
 Hi! I'm **Akshansh**, and this website is my digital portfolio where I share my work, experiments, and learning journey.
